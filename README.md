@@ -46,7 +46,7 @@ This project was created for learning purposes, combining:
 
 ---
 
- **Linkedin:**www.linkedin.com/in/vitor-gamarano
+ Linkedin: www.linkedin.com/in/vitor-gamarano
 
 ---
 # 💼 Calculadora de Salário
